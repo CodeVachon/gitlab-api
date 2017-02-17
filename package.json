@@ -1,5 +1,5 @@
 {
-  "name": "gitlab-api",
+  "name": "gitlab-ce-api",
   "version": "0.0.0",
   "description": "A node module for connecting to and getting data from gitlab 8",
   "main": "module.js",

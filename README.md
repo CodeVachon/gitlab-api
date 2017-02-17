@@ -1,4 +1,4 @@
-# gitlab-api
+# gitlab-ce-api
 A node module for connecting to and getting data from gitlab 8
 
 ## Notes
@@ -9,12 +9,12 @@ A node module for connecting to and getting data from gitlab 8
 
 ## Install
 ```sh
-npm install gitlab-api --save
+npm install gitlab-ce-api --save
 ```
 
 ## Init
 ```js
-var gitlabAPI = require('gitlab-api');
+var gitlabAPI = require('gitlab-ce-api');
 
 var options = {
     token: "",
