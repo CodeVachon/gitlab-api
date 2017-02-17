@@ -1,0 +1,30 @@
+{
+  "name": "gitlab-api",
+  "version": "0.0.0",
+  "description": "A node module for connecting to and getting data from gitlab 8",
+  "main": "module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liaodrake/gitlab-api.git"
+  },
+  "keywords": [
+    "gitlab",
+    "api"
+  ],
+  "author": "Christopher Vachon <code@christophervachon.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liaodrake/gitlab-api/issues"
+  },
+  "homepage": "https://github.com/liaodrake/gitlab-api#readme",
+  "dependencies": {
+    "extend": "^3.0.0",
+    "got": "^6.7.1"
+  },
+  "devDependencies": {
+    "base64-min": "^1.2.0"
+  }
+}
